@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+N:MARNAT;Mathieu;;;
+FN:Mathieu MARNAT
+ORG:  Brevo (formerly Sendinblue) 
+ADR;TYPE=WORK:
+TITLE:Lead Technical Deliverability Engineer
+TEL;TYPE=CELL:
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:mathieu.marnat@brevo.com
+URL;TYPE=Digital Business Card:
+URL:https://www.brevo.com/
+URL;TYPE=Website:https://www.brevo.com/
+URL;TYPE=Location:https://www.google.com/maps/place/106+Bd+Haussmann,+75008+Paris/@48.8746643,2.3189383,17z/data=!3m1!4b1!4m6!3m5!1s0x47e66fcae51ebaf1:0x1d209811fe33bb0e!8m2!3d48.8746608!4d2.3215132!16s%2Fg%2F11cs7fkmr0?entry=tts
+URL;TYPE=LinkedIn:https://linkedin.com/in/mathieumarnat/
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100157018
+END:VCARD
